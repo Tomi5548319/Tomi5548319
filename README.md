@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomi5548319
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning Java, C
+- 🌱 I’m currently learning Python, Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
